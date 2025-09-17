@@ -1,32 +1,5 @@
 {
-  "heroAds": [
-    {
-      "thumb": "https://via.placeholder.com/1200x400?text=Hero+1",
-      "inlineGif": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
-      "viewerMp4": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
-      "label": "자세히 보기 1"
-    },
-    {
-      "thumb": "https://via.placeholder.com/1200x400?text=Hero+2",
-      "inlineGif": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
-      "viewerMp4": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean.mp4",
-      "label": "자세히 보기 2"
-    }
-  ],
-
-  "bannerAds": [
-    [
-      { "img": "https://via.placeholder.com/600x200/03c75a/ffffff?text=배너1", "href": "#", "title": "배너1" },
-      { "img": "https://via.placeholder.com/600x200/2962ff/ffffff?text=배너2", "href": "#", "title": "배너2" }
-    ],
-    [
-      { "img": "https://via.placeholder.com/600x200/ff6b6b/ffffff?text=배너3", "href": "#", "title": "배너3" },
-      { "img": "https://via.placeholder.com/600x200/feca57/ffffff?text=배너4", "href": "#", "title": "배너4" }
-    ]
-  ],
-
-  "naverAds": [
-    { "href": "#", "img": "https://via.placeholder.com/1200x200/03c75a/ffffff?text=Naver+Ad+1" },
-    { "href": "#", "img": "https://via.placeholder.com/1200x200/14161a/ffffff?text=Naver+Ad+2" }
-  ]
+  "heroAds": [],
+  "bannerAds": [],
+  "naverAds": []
 }
