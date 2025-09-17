@@ -1,5 +1,33 @@
 {
-  "heroAds": [],
-  "bannerAds": [],
-  "naverAds": []
+  "heroAds": [
+    {
+      "thumb": {
+  "thumb": "https://yourslisan2025.imweb.me/73/gh/kimssan2003-png/kimkyungho@main/ads/KakaoTalk_20250914_202120044.gif",
+      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero1.gif",
+      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero1-video.mp4",
+      "label": "자세히 보기 1"
+    },
+    {
+      "thumb": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero2-thumb.png",
+      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero2.gif",
+      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero2-video.mp4",
+      "label": "자세히 보기 2"
+    }
+  ],
+
+  "bannerAds": [
+    [
+      { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner1.gif", "href": "/b1", "title": "배너1" },
+      { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner2.gif", "href": "/b2", "title": "배너2" }
+    ],
+    [
+      { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner3.gif", "href": "/b3", "title": "배너3" },
+      { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner4.gif", "href": "/b4", "title": "배너4" }
+    ]
+  ],
+
+  "naverAds": [
+    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver-ad1.gif" },
+    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver-ad2.gif" }
+  ]
 }
