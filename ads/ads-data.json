@@ -1,48 +1,32 @@
 {
   "heroAds": [
     {
-      "thumb": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero1-thumb.png",
-      "inlineGif": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero1.gif",
-      "viewerMp4": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero1-video.mp4",
+      "thumb": "https://via.placeholder.com/1200x400?text=Hero+1",
+      "inlineGif": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
+      "viewerMp4": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
       "label": "자세히 보기 1"
     },
     {
-      "thumb": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero2-thumb.png",
-      "inlineGif": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero2.gif",
-      "viewerMp4": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/hero2-video.mp4",
+      "thumb": "https://via.placeholder.com/1200x400?text=Hero+2",
+      "inlineGif": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+      "viewerMp4": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean.mp4",
       "label": "자세히 보기 2"
     }
   ],
 
   "bannerAds": [
     [
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner1.gif", "href": "/b1", "title": "배너1" },
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner2.gif", "href": "/b2", "title": "배너2" }
+      { "img": "https://via.placeholder.com/600x200/03c75a/ffffff?text=배너1", "href": "#", "title": "배너1" },
+      { "img": "https://via.placeholder.com/600x200/2962ff/ffffff?text=배너2", "href": "#", "title": "배너2" }
     ],
     [
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner3.gif", "href": "/b3", "title": "배너3" },
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner4.gif", "href": "/b4", "title": "배너4" }
-    ],
-    [
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner5.gif", "href": "/b5", "title": "배너5" },
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner6.gif", "href": "/b6", "title": "배너6" }
-    ],
-    [
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner7.gif", "href": "/b7", "title": "배너7" },
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner8.gif", "href": "/b8", "title": "배너8" }
-    ],
-    [
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner9.gif", "href": "/b9", "title": "배너9" },
-      { "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/banner10.gif", "href": "/b10", "title": "배너10" }
+      { "img": "https://via.placeholder.com/600x200/ff6b6b/ffffff?text=배너3", "href": "#", "title": "배너3" },
+      { "img": "https://via.placeholder.com/600x200/feca57/ffffff?text=배너4", "href": "#", "title": "배너4" }
     ]
   ],
 
   "naverAds": [
-    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/naver-ad1.gif" },
-    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/naver-ad2.gif" },
-    { "href": "/promo3", "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/naver-ad3.gif" },
-    { "href": "/promo4", "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/naver-ad4.gif" },
-    { "href": "/promo5", "img": "https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/ads/naver-ad5.gif" }
+    { "href": "#", "img": "https://via.placeholder.com/1200x200/03c75a/ffffff?text=Naver+Ad+1" },
+    { "href": "#", "img": "https://via.placeholder.com/1200x200/14161a/ffffff?text=Naver+Ad+2" }
   ]
 }
-
