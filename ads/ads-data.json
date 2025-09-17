@@ -26,7 +26,7 @@
   ],
 
   "naverAds": [
-    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver-ad1.gif" },
-    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver-ad2.gif" }
+    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/bannerjpg1.png" },
+    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/bannerjpg3.png" }
   ]
 }
