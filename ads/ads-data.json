@@ -1,15 +1,15 @@
 {
   "heroAds": [
     {
-      "thumb": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/main-herojpg.png",
-      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/KakaoTalk_20250917_181659421.gif",
-      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/KakaoTalk_20250916_120508819.mp4",
+      "thumb": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/main-hero1.png",
+      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero1.gif",
+      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero1.mp4",
       "label": "자세히 보기 1"
     },
     {
-      "thumb": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/main-herojpg.png",
-      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/KakaoTalk_20250917_181659421.gif",
-      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/KakaoTalk_20250916_120508819.mp4",
+      "thumb": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/main-hero2.png",
+      "inlineGif": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero2.gif",
+      "viewerMp4": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/hero2.mp4",
       "label": "자세히 보기 2"
     }
   ],
@@ -18,11 +18,11 @@
     [
       { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner1.gif", "href": "/b1", "title": "배너1" },
       { "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/banner2.gif", "href": "/b2", "title": "배너2" }
-
+    ]
   ],
 
   "naverAds": [
-    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/bannerjpg1.png" },
-    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/bannerjpg3.png" }
+    { "href": "/promo1", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver1.png" },
+    { "href": "/promo2", "img": "https://cdn.jsdelivr.net/gh/kimssan2003-png/kimkyungho@main/ads/naver2.png" }
   ]
 }
